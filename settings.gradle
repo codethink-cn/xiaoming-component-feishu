@@ -1,0 +1,4 @@
+rootProject.name = 'xiaoming-component-feishu'
+include 'xiaoming-component-feishu-api'
+include 'xiaoming-component-feishu-core'
+
